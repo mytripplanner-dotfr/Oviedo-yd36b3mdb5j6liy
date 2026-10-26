@@ -1,0 +1,183 @@
+{
+  "pays": "Espagne",
+  "drapeau": "🇪🇸",
+  "symbole": "🍏",
+  "titre": "Échappée douce et saveurs authentiques à Oviedo",
+  "budget_total": "Environ 500 €/personne",
+  "duree": "4 jours",
+  "temps_vol": "1h50 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et premiers pas dans le vieux Oviedo",
+      "legende": "Après un court vol depuis Paris, installez-vous sereinement dans le cœur historique des Asturies. Laissez-vous séduire par l'ambiance chaleureuse des places pavées et l'effervescence feutrée des premières sidrerías de la ville.",
+      "lieu": "Oviedo",
+      "activites": [
+        "<strong>🛬</strong>: Atterrissage à l'aéroport des Asturies et trajet fluide en navette jusqu'au centre-ville.",
+        "<strong>🏨</strong>: Installation dans votre hébergement 3 étoiles et dépose des bagages.",
+        "<strong>🚶‍♂️</strong>: Balade reposante autour de la charmante Plaza del Fontán et premier verre de cidre local."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Plaza del Fontán, Oviedo",
+          "categorie": "Place historique",
+          "coords": { "lat": 43.3597, "lng": -5.8459 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transfert aéroport",
+          "texte": "Des bus réguliers relient l'aéroport au centre d'Oviedo en 45 minutes pour environ 9 euros."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⛪",
+      "titre": "Joyaux gothiques et quiétude végétale",
+      "legende": "Prenez le temps d'explorer l'âme médiévale d'Oviedo sans aucune précipitation. Entre chefs-d'œuvre de pierre dorée et sentiers arborés, profitez d'une atmosphère paisible idéale pour recharger vos batteries.",
+      "lieu": "Oviedo",
+      "activites": [
+        "<strong>⛪</strong>: Visite contemplative de la Cathédrale San Salvador et de son trésor millénaire classé à l'UNESCO.",
+        "<strong>🌳</strong>: Promenade apaisante dans les allées du parc San Francisco à la rencontre de la célèbre statue de Mafalda."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Catedral de San Salvador, Oviedo",
+          "categorie": "Monument religieux",
+          "coords": { "lat": 43.3626, "lng": -5.8431 }
+        },
+        {
+          "nom_recherche": "Campo de San Francisco, Oviedo",
+          "categorie": "Parc public",
+          "coords": { "lat": 43.3615, "lng": -5.8502 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Statue emblématique",
+          "texte": "Ne manquez pas la statue de Mafalda assise sur son banc dans le parc pour un souvenir amusant."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏛️",
+      "titre": "Art préroman et parenthèse bien-être",
+      "legende": "Montez doucement sur les hauteurs du mont Naranco pour admirer des églises uniques au monde entourées de verdure. Poursuivez l'après-midi par une pause douceur dans un spa urbain de la capitale asturienne.",
+      "lieu": "Oviedo",
+      "activites": [
+        "<strong>🏛️</strong>: Découverte sans effort de Santa María del Naranco, bijou préroman avec vue panoramique sur la vallée.",
+        "<strong>🧖‍♀️</strong>: Moment de pure relaxation dans les bassins d'un spa thermal au cœur de la ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Santa María del Naranco, Oviedo",
+          "categorie": "Site historique",
+          "coords": { "lat": 43.3794, "lng": -5.866 }
+        },
+        {
+          "nom_recherche": "Calle Uría, Oviedo",
+          "categorie": "Artère commerçante",
+          "coords": { "lat": 43.3639, "lng": -5.8517 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Accès facile",
+          "texte": "La ligne de bus urbain A2 vous dépose directement au pied des monuments du mont Naranco."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🥐",
+      "titre": "Gourmandises asturiennes et retour",
+      "legende": "Terminez ce séjour relaxant en régalant vos papilles dans les plus vieilles pâtisseries de la ville. Glanez quelques spécialités gourmandes au marché couvert avant de rejoindre sereinement l'aéroport.",
+      "lieu": "Oviedo",
+      "activites": [
+        "<strong>🥐</strong>: Dégustation d'un carbayón fondant chez Camilo de Blas, pâtisserie historique au décor d'antan préservé.",
+        "<strong>🛍️</strong>: Flânerie finale entre les étals parfumés de fromages au marché El Fontán avant le départ."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Confitería Camilo de Blas, Oviedo",
+          "categorie": "Boutique historique",
+          "coords": { "lat": 43.3644, "lng": -5.8475 }
+        },
+        {
+          "nom_recherche": "Mercado El Fontán, Oviedo",
+          "categorie": "Marché traditionnel",
+          "coords": { "lat": 43.3601, "lng": -5.8455 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🧀",
+          "titre": "Souvenir gourmand",
+          "texte": "Pensez au fromage de Cabrales ou au Gamoneu sous vide pour régaler vos proches à votre retour."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 90 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "30 €/pers", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "160 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "180 €/pers", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "40 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Octobre", "symbole": "☀️" },
+    { "titre": "Mars à Avril pour la floraison", "symbole": "🌸" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Climat océanique doux mais changeant : prévoyez un parapluie léger et une veste étanche.", "symbole": "🌦️" },
+    { "titre": "L'ensemble du centre historique est entièrement piétonnier et très facile à parcourir à pied.", "symbole": "🚶‍♂️" },
+    { "titre": "Cartes bancaires acceptées partout. Espèces conseillées pour quelques emplettes de marché.", "symbole": "💳" },
+    { "titre": "Les horaires de repas espagnols s'appliquent : déjeuner vers 14h et dîner dès 21h.", "symbole": "⏰" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🎬",
+      "titre": "La statue de Woody Allen",
+      "texte": "Oviedo a érigé une statue grandeur nature du réalisateur new-yorkais qui avait qualifié la ville de véritable conte de fées après y avoir reçu un prix."
+    },
+    {
+      "symbole": "🍾",
+      "titre": "L'art de l'Escanciado",
+      "texte": "Ici le cidre se verse d'un mètre au-dessus du verre sans regarder pour l'oxygéner, et se boit cul sec en ne laissant qu'un fond à jeter au sol."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍲",
+      "titre": "Fabada Asturiana",
+      "texte": "Mijoté réconfortant de gros haricots blancs fondants cuits lentement avec du chorizo, du boudin noir et du lard fumé."
+    },
+    {
+      "symbole": "🥩",
+      "titre": "Cachopo",
+      "texte": "Généreuse escalope de veau panée et dorée, garnie d'un cœur fondant de fromage local et de tranches de jambon serrano."
+    },
+    {
+      "symbole": "🥧",
+      "titre": "Carbayón",
+      "texte": "Pâtisserie emblématique d'Oviedo constituée d'une pâte feuilletée garnie d'amandes broyées et nappée d'un glaçage au cognac."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-OVD/2027-03-09/2027-03-13", "symbole": "🛬" },
+    { "legende": "Office du Tourisme des Asturies", "titre": "Turismo Asturias", "url": "https://www.turismoasturias.es/", "symbole": "📘" },
+    { "legende": "Navettes aéroport Alsa", "titre": "Alsa Bus", "url": "https://www.alsa.es/", "symbole": "🚆" }
+  ]
+}
